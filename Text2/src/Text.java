@@ -42,3 +42,4 @@ public class Text {
 		System.out.println("Dao nguoc hoa-thuong: " + kq);
 	}
 }// toi la LuisQuang!!!
+//hay vai dai
